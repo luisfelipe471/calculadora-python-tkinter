@@ -9,7 +9,6 @@ Aplicação desktop com interface gráfica desenvolvida como **projeto de conclu
 - Histórico de cálculos, com opção para apagar o histórico.
 - Validação de entradas numéricas e tratamento de divisão por zero.
 - Formatação de resultados, incluindo notação científica quando necessário.
-- Atalhos: **Enter** para calcular e **Esc** para limpar.
 
 ## Tecnologias
 
